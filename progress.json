@@ -1,0 +1,21 @@
+{
+  "solved": {
+    "1": {
+      "status": "solved",
+      "updatedAt": "2026-10-26T16:30:12.482Z"
+    },
+    "4": {
+      "status": "unsolved",
+      "updatedAt": "2026-10-26T14:04:13.838Z"
+    },
+    "39": {
+      "status": "unsolved",
+      "updatedAt": "2026-10-26T15:39:26.320Z"
+    },
+    "73": {
+      "starred": false,
+      "updatedAt": "2026-10-26T14:07:12.797Z"
+    }
+  },
+  "lastUpdated": "2026-10-26T16:30:12.482Z"
+}
